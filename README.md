@@ -18,4 +18,4 @@
 4. Navigate to Import -> Update DOQL Library to fetch most recent DOQL from https://github.com/M6thrXeat/DOQL_scripts_examples/archive/master.zip
 
 Screenshots:
-![Screenshot](https://github.com/mw-94/D42-Wizard/blob/master/docs/images/Screenshot_01.png)
+![](./docs/images/Screenshot_01.png)
